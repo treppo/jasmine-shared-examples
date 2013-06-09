@@ -23,7 +23,7 @@
     "email": "christian@treppo.org",
     "url": "treppo.org"
   },
-  "license": "BSD",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/treppo/jasmine-shared-examples/issues"
   },
