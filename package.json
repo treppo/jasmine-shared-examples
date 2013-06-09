@@ -1,0 +1,35 @@
+{
+  "name": "jasmine-shared-examples",
+  "version": "0.0.1",
+  "description": "RSpec's shared examples for Jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/treppo/jasmine-shared-examples"
+  },
+  "keywords": [
+    "jasmine",
+    "rspec",
+    "shared",
+    "examples",
+    "behave",
+    "tdd"
+  ],
+  "author": {
+    "name": "Christian Treppo",
+    "email": "christian@treppo.org",
+    "url": "treppo.org"
+  },
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/treppo/jasmine-shared-examples/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jasmine": "~0.4.2",
+    "grunt-contrib-jshint": "~0.6.0"
+  }
+}
