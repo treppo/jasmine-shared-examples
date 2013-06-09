@@ -1,9 +1,5 @@
-Jasmine Shared Examples
+Jasmine Shared Examples [![Build Status](https://travis-ci.org/treppo/jasmine-shared-examples.png?branch=master)](https://travis-ci.org/treppo/jasmine-shared-examples)
 ===
-Rspec's shared examples brought to your Jasmine test suite
-
-[![Build Status](https://travis-ci.org/treppo/jasmine-shared-examples.png?branch=master)](https://travis-ci.org/treppo/jasmine-shared-examples)
-
 Jasmine Shared Examples is bringing the ability to reuse your assertions
 throughout your test suite, so that your code stays DRY.
 
@@ -39,16 +35,6 @@ a test!
 4. Make the test pass.
 
 5. Push to your fork and submit a pull request.
-
-Syntax:
-
-* Two spaces, no tabs.
-* No trailing whitespace. Blank lines should not have any space.
-* myFunction(args) not my_Function( args ).
-* a = b and not a=b.
-* Follow the conventions you see used in the source already.
-
-And in case we didn't emphasize it enough: we love tests!
 
 License
 ---
