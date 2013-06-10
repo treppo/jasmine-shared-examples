@@ -1,5 +1,5 @@
 var isFunction = function (subject) {
-  return Object.prototype.toString.call(subject) == '[object Function]';
+  return Object.prototype.toString.call(subject) === '[object Function]';
 };
 
 var filterArguments = function (args) {
